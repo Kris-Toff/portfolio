@@ -73,7 +73,12 @@ Business Owners can :
 ## Other Projects ##
 
 #### Smylen Dream - CMS ####
-Content management system for Smylen Dream virgin coconut oil and handicrafts\
+Content management system for Smylen Dream virgin coconut oil and handicrafts
 
 Github repository: [SmylenDream](https://github.com/Kris-Toff/SmylenDream)
 
+#### Blog Post Management ####
+Blog post management with authentication and CRUD using Quasar & Laravel frameworks
+
+Github repository: [Frontend - Quasar](https://github.com/Kris-Toff/blog-management-quasar)
+Github repository: [Backend - Laravel](https://github.com/Kris-Toff/blog-management-laravel)
