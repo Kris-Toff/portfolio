@@ -59,7 +59,7 @@ In my spare time I play video games with my friends, I enjoy watching movies, TV
 
 <br/>
 
-## Current Project ##
+<!-- ## Current Project ##
 
 #### Adto Siquijor - WIP Github repository is private ####
 This is a web portal for local and foreign tourists on the island of Siquijor. The vision for this web app is to help business owners whether big or small make them visible and easy to find.
@@ -68,25 +68,25 @@ Business Owners can :
 * Create and manage their page
 * Pin their location in our map
 * Showcase their business by uploading photos
-* Post announcements
+* Post announcements -->
 
-## Other Projects ##
+## Projects ##
 
 #### Smylen Dream - CMS ####
-Content management system for Smylen Dream virgin coconut oil and handicrafts
+- Content management system for Smylen Dream virgin coconut oil and handicrafts
 
-Github repository: `Private`
+- Github repository: `Private`
 
 #### Blog Post Management ####
-Blog post management with authentication and CRUD using Quasar & Laravel frameworks
+- Blog post management with authentication and CRUD using Quasar & Laravel frameworks
 
-Github repository: [Frontend - Quasar](https://github.com/Kris-Toff/blog-management-quasar)
+- Github repository: [Frontend - Quasar](https://github.com/Kris-Toff/blog-management-quasar)
 <br>
-Github repository: [Backend - Laravel](https://github.com/Kris-Toff/blog-management-laravel)
+- Github repository: [Backend - Laravel](https://github.com/Kris-Toff/blog-management-laravel)
 
 #### Business Hours Manager ####
-Business Hours Manager with Authentication and Dashboard using Vuejs with Vuetify & Laravel Framework.
+- Business Hours Manager with Authentication and Dashboard using Vuejs with Vuetify & Laravel Framework.
 
-Github repository: [Frontend - Vuejs with Vuetify](https://github.com/Kris-Toff/business-hours-manager-frontend)
+- Github repository: [Frontend - Vuejs with Vuetify](https://github.com/Kris-Toff/business-hours-manager-frontend)
 <br>
-Github repository: [Backend - Laravel](https://github.com/Kris-Toff/business-hours-manager)
+- Github repository: [Backend - Laravel](https://github.com/Kris-Toff/business-hours-manager)
