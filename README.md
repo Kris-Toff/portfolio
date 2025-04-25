@@ -75,10 +75,18 @@ Business Owners can :
 #### Smylen Dream - CMS ####
 Content management system for Smylen Dream virgin coconut oil and handicrafts
 
-Github repository: [SmylenDream](https://github.com/Kris-Toff/SmylenDream)
+Github repository: `Private`
 
 #### Blog Post Management ####
 Blog post management with authentication and CRUD using Quasar & Laravel frameworks
 
 Github repository: [Frontend - Quasar](https://github.com/Kris-Toff/blog-management-quasar)
+<br>
 Github repository: [Backend - Laravel](https://github.com/Kris-Toff/blog-management-laravel)
+
+#### Business Hours Manager ####
+Business Hours Manager with Authentication and Dashboard using Vuejs with Vuetify & Laravel Framework.
+
+Github repository: [Frontend - Vuejs with Vuetify](https://github.com/Kris-Toff/business-hours-manager-frontend)
+<br>
+Github repository: [Backend - Laravel](https://github.com/Kris-Toff/business-hours-manager)
